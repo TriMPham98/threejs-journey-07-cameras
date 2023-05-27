@@ -1,5 +1,6 @@
 import * as THREE from "three";
-import { OrbitControls } from "/Users/trimpham98/repos/threejs-journey-07-cameras/node_modules/three/examples/jsm/controls/OrbitControls.js";
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
+
 
 /**
  * Cursor
